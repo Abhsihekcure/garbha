@@ -1,0 +1,15 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "Lato:400,700|Futura PT|Montserrat:600|B612 Mono"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Montserrat"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

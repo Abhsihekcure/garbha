@@ -1,0 +1,18 @@
+# Theme metadata
+name = "custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgba(198,62,118,1)"
+
+# Menu
+menu_primary = "rgb(34, 41, 93)"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(198,62,118,1)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#F2E0DC"
+home_section_even = "#F2E0DC"
