@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Garbh-Ini"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo outline 300-background color.svg"
+hero_media = "garbhini-bhartiya-logo-final.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
