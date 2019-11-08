@@ -16,12 +16,13 @@ user_groups = ["Abhishek Kumar Abhay",
                "Dharmendra Sharma",
                "Manish Shetty",
                "Mukesh Zuyal",
-                "Priyanka",
+               "Priyanka Sharma",
                "Rahul Sharma",
                "Rakesh Kumar",
                 "Ritesh Ranjan",
-                "S Suresh",
+                "Sandeep",
                 "Shilpa Chopda",
+                 "S Suresh"
                 ]
 +++
 
