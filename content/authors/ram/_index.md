@@ -1,9 +1,9 @@
 ---
 authors:
-- ram
+- koundinya
 bio: 
-email: ""
-name: 'Koundinya'
+email: "ramachandran@thsti.res.in"
+name: 'Ramachandran'
 
 social:
 - icon: twitter
