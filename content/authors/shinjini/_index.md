@@ -1,6 +1,6 @@
 ---
 authors:
-- shinjini
+- dinkar
 bio: 
 email: ""
 name: 'Dr.Shinjini Bhatnagar'

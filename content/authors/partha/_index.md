@@ -1,6 +1,6 @@
 ---
 authors:
-- shinjini
+- partha
 bio: 
 email: ""
 name: 'Dr.Partha Pratim Majumder'

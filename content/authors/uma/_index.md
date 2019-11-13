@@ -1,22 +1,17 @@
 ---
 authors:
-- dinkar
+- uma
 bio: 
 email: ""
-name: 'Dr.Dinakar Salunke'
+name: 'Dr. Uma Chandra Mouli Natchu'
 
 social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
 superuser: false
-user_groups: ["Principal Investigators"]
+user_groups: ["Co-Investigators"]
 ---
 
 Under the auspices of the Department of Biotechnology (DBT), the Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative (GARBH-Ini) study was initiated by the Translational Health Science and Technology Institute (THSTI), Delhi National Capital Region, in 2014 as a collaborative interdisciplinary program.
