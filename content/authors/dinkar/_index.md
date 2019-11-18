@@ -8,23 +8,17 @@ name: 'Dr.Dinakar Salunke'
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: people
+
 superuser: false
 user_groups: ["Principal Investigators"]
 ---
 
-Under the auspices of the Department of Biotechnology (DBT), the Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative (GARBH-Ini) study was initiated by the Translational Health Science and Technology Institute (THSTI), Delhi National Capital Region, in 2014 as a collaborative interdisciplinary program.
+Dinakar M. Salunke :
 
-Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth.
+        Karnataka University, Dharwad, India, BSc (Physics, Mathematics and Statistics), 1976 Karnataka University, Dharwad, India, MSc (Physics), 1978
+Indian Institute of Science (IISc), Bangalore, India, PhD, 1983
+Brandeis University, Waltham, Massachusetts, USA Postdoc, 1988
 
-
-* [Translational Health Science and Technology Institute] (http://thsti.res.in)
-* [National Institute of Biomedical Genomics] (https://www.nibmg.ac.in)
-* [Regional Centre for Biotechnology] (http://rcb.res.in)
-* [Gurugram Civil Hospital] ()
+Scientific Activity :       
+                      Understanding the physiological processes of self-nonself discrimination in terms of physicochemical principles of molecular interactions has been a major focus of our research. Our work on the pluripotency of primary immune response led to discovering new ways of antibody degeneracy and has impacted the evolving paradigm shift in immune recognition and generation of antibody repertoire [Immunity (2006) 24:359]. We have analyzed how immune system reacts when encountered with the antigens that keep changing shape and showed that the restricted paratope conformational repertoire on binding of an antigen to multiple independent antibodies may be relevant for minimizing possibility of selfreactive antibodies. Molecular insights into the functional mimicry in the context of immune response were addressed using structural, immunological and thermodynamic approaches. We have demonstrated how paratope plasticity facilitates molecular mimicry of otherwise unrelated antigens. While our analyses of carbohydrate-peptide mimicry provided important conceptual leads towards design and development of new generation of vaccines, the analyses involving carbohydrate-porphyrin mimicry provided possible mechanistic understanding of the molecular pathology of porphyria. Structural issues pertaining to innate immunity and food allergies are also being addressed.
