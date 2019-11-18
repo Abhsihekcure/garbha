@@ -9,7 +9,7 @@ name: 'Abhishek Kumar Abhay'
 
 
 superuser: false
-user_groups: ["Staff"]
+user_groups: ["Data Management Staff"]
 ---
 
 

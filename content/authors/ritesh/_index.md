@@ -9,7 +9,7 @@ name: 'Ritesh Ranjan'
 
 
 superuser: false
-user_groups: ["Staff"]
+user_groups: ["Data Management Staff"]
 ---
 
 

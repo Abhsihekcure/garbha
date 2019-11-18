@@ -14,12 +14,9 @@ title = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigators",
                  "Co-Investigators",
-                 "Staff",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+                 "PHD Students",
+                 "Data Management Staff",
+                 "Clinical Staff"]
 
 
 

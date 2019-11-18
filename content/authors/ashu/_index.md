@@ -9,7 +9,7 @@ name: 'Ashu Sharma'
 
 
 superuser: false
-user_groups: ["Staff"]
+user_groups: ["Data Management Staff"]
 ---
 
 
