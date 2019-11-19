@@ -4,12 +4,12 @@ authors:
 - abhishek
 bio: 
 email: ""
-name: 'Dr. Shubhrata Das'
+name: 'Manish Sethi'
 
 
 
 superuser: false
-user_groups: ["Clinical Team"]
+user_groups: ["Data Management Team"]
 ---
 
 

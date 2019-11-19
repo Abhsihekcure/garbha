@@ -4,7 +4,7 @@ authors:
 - abhishek
 bio: 
 email: ""
-name: 'Dr Stuti'
+name: 'Dr. Stuti'
 
 
 
