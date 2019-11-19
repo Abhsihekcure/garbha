@@ -11,7 +11,7 @@ social:
   link: people
 
 superuser: false
-user_groups: ["Co-Investigators"]
+user_groups: ["Interdisciplinary Team"]
 ---
 [Biography	and	Research	Interests] : 
 I trained as a paediatrician and after practicing for a few years,transitioned to become a physicianscientist.I have been doing clinical research for more than a decade and lead my research programme at THSTI. In my initial years as a researcher at AIIMS-New Delhi, I was involved with the conduct of hypothesis driven studies that evaluated interventions directed at several commonly occurring infections in children in India. I was groomed in the skills required for conducting rigorous and meaningful research. In 2010, I joined Translational Health Science and Technology Institute as a physician-scientist.I have been associated with several large multi-centre clinical trials using zinc for treatment of various childhood illnesses, surveillance for H-influenzae B in tertiary hospitals, establishing a large cohort of pregnant women to find solutions for adverse pregnancy outcomes, and observational studies to understand the development and maturation of the neonatal immune system. My  primary  research  

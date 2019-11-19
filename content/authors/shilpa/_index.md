@@ -4,12 +4,12 @@ authors:
 - shilpa
 bio: 
 email: ""
-name: 'Shilpa Chopda'
+name: 'Shilpa Chopra'
 
 
 
 superuser: false
-user_groups: ["Data Management Staff"]
+user_groups: ["Data Management Team"]
 ---
 
 

@@ -13,10 +13,10 @@ title = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigators",
-                 "Co-Investigators",
-                 "PHD Students",
-                 "Data Management Staff",
-                 "Clinical Staff"]
+                 "Interdisciplinary Team",
+                 "Clinical Team",
+                  "Management Team",
+                 "Data Management Team"]
 
 
 

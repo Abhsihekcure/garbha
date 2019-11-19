@@ -4,12 +4,12 @@ authors:
 - rahul
 bio: 
 email: ""
-name: 'Rajkumar Tanwar'
+name: 'Raj Kumar Tanwar'
 
 
 
 superuser: false
-user_groups: ["Data Management Staff"]
+user_groups: ["Data Management Team"]
 ---
 
 
