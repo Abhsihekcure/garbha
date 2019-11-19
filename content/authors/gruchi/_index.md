@@ -11,7 +11,7 @@ social:
   link: people
 
 superuser: false
-user_groups: ["Co-Investigators"]
+user_groups: ["Interdisciplinary Team"]
 ---
 [biography] :
 Cutting edge expertise in drug discovery area with a detailed understanding of disease biology utilizing basic science as well as applied biochemistry,cell & molecularbiology and organic chemistry. Worked with leading pharma companies of India and international repute such as Daiichi Sankyo, Ranbaxy and Torrent. Led and managed the global research portfolio managing programs from early discovery to preclinical development for complex human diseases related to inflammation & immunology,respiratory and metabolic disorders utilizing the small molecule,herbal nutraceutical and biologics approaches. 

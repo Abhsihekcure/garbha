@@ -11,7 +11,7 @@ social:
   link: people
 
 superuser: false
-user_groups: ["Co-Investigators"]
+user_groups: ["Interdisciplinary Team"]
 ---
 [Biography] :                                                                                                
 I completed my Bachelors degree in Biochemistry from Daulat Ram College (Delhi University) in 1996. I was fortunate to get admission as an Integrated PhD (Biological Sciences) student at Indian Institute of Science, Bengaluru. I completed by PhD under the guidance of Dr. Sandhya S. Visweswariah at the Department of Molecular Reproduction, Development and Genetics (MRDG). My PhD research work revolved around cGMP signaling pathways responsible for travellers’ diarrhea, specifically looking at the role of a Role of a cGMP binding-cGMP-specific phosphodiesterase (PDE5) in regulating cGMP signaling. After completing my PhD, I joined Dr. Jan Christian’s laboratory at the Department of Cell and Developmental Biology, Oregon Health and Science University, Portland, OR, USA. I was specifically looking at how differential cleavage of the morphogen Bone Morphogenetic Protein 4 (and its ortholog decapentaplegic in drosophila) regulates the ability of the protein to act as a long vs short range signaling molecule. My PhD and postdoctoral training was in cell biology, biochemistry and molecular biology.

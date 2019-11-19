@@ -9,7 +9,7 @@ name: 'Ali Baksh'
 
 
 superuser: false
-user_groups: ["Data Management Staff"]
+user_groups: ["Data Management Team"]
 ---
 
 

@@ -11,7 +11,7 @@ social:
   link: people
 
 superuser: false
-user_groups: ["Co-Investigators"]
+user_groups: ["Interdisciplinary Team"]
 ---
 A brief biography
 

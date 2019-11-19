@@ -9,7 +9,7 @@ name: 'Priyanka Sharma'
 
 
 superuser: false
-user_groups: ["Data Management Staff"]
+user_groups: ["Data Management Team"]
 ---
 
 
