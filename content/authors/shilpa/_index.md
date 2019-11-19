@@ -4,7 +4,7 @@ authors:
 - shilpa
 bio: 
 email: ""
-name: 'Shilpa Chopda'
+name: 'Shilpa Chopra'
 
 
 

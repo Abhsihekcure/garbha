@@ -4,7 +4,7 @@ authors:
 - rahul
 bio: 
 email: ""
-name: 'Rajkumar Tanwar'
+name: 'Raj Kumar Tanwar'
 
 
 
