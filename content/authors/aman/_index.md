@@ -9,7 +9,7 @@ name: 'Amanpreet Singh'
 
 
 superuser: false
-user_groups: ["Management Team"]
+user_groups: ["Project Management Team"]
 ---
 
 

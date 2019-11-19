@@ -15,7 +15,7 @@ title = ""
   user_groups = ["Principal Investigators",
                  "Interdisciplinary Team",
                  "Clinical Team",
-                  "Management Team",
+                 "Project Management Team",
                  "Data Management Team"]
 
 
