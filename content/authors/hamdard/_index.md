@@ -13,7 +13,7 @@ user_groups: ["Collaborators"]
 
  *	Smriti Hari
  *  Yashdeep Gupta
- *  Nikhil Tandon); 
+ *  Nikhil Tandon 
  
 
 
