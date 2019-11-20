@@ -69,6 +69,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -517,6 +519,165 @@
 
   
   
+    
+    
+    
+  
+
+  <section id="slider" class="home-section wg-slider    carousel slide"  data-ride="carousel" data-interval="3000">
+    
+      
+
+
+
+
+<ol class="carousel-indicators">
+  
+  <li data-target="#slider" data-slide-to="0" class="active"></li>
+  
+  <li data-target="#slider" data-slide-to="1" ></li>
+  
+  <li data-target="#slider" data-slide-to="2" ></li>
+  
+</ol>
+
+
+<div class="carousel-inner">
+  
+  <div class="wg-hero dark carousel-item active" style="height: 300px;
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('/img/headers/bubbles-wide.jpg');
+    
+    ;">
+    <div class="container" style="text-align: left;">
+        <h1 class="hero-title" itemprop="headline">
+          News
+        </h1>
+
+        
+        <p class="hero-lead" style="">
+          One of the five Atal Jaianusandhan Biotech missions
+        </p>
+        
+
+        
+        
+        <p>
+          <a href="https://pib.gov.in/newsite/PrintRelease.aspx?relid=188951" class="btn btn-light btn-lg">click here</a>
+        </p>
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="height: 300px;
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('/img/headers/bubbles-wide.jpg');
+    
+    ;">
+    <div class="container" style="text-align: left;">
+        <h1 class="hero-title" itemprop="headline">
+          News
+        </h1>
+
+        
+        <p class="hero-lead" style="">
+          Indian scientists developing new algorithm to help predict preterm births
+        </p>
+        
+
+        
+        
+        <p>
+          <a href="https://www.business-standard.com/article/current-affairs/indian-scientists-developing-new-algorithm-to-help-predict-preterm-births-119110201103_1.html" class="btn btn-light btn-lg">click here</a>
+        </p>
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="height: 300px;
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('/img/headers/bubbles-wide.jpg');
+    
+    ;">
+    <div class="container" style="text-align: left;">
+        <h1 class="hero-title" itemprop="headline">
+          News
+        </h1>
+
+        
+        <p class="hero-lead" style="">
+          A short video explaining the programme
+        </p>
+        
+
+        
+        
+        <p>
+          <a href="https://www.youtube.com/watch?v=b8cGvXRz1rE&amp;feature=youtu.be" class="btn btn-light btn-lg">click here</a>
+        </p>
+        
+      </div>
+  </div>
+  
+</div>
+
+
+<a class="carousel-control-prev" href="#slider" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next" href="#slider" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+  <span class="sr-only">Next</span>
+</a>
+
+    
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
 
   <section id="about" class="home-section wg-about   "  >
     <div class="container">
@@ -687,7 +848,7 @@
 
 <figure>
 
-<img src="/img/slide1.png" >
+<img src="/img/slide11.png" >
 
 
 </figure>
@@ -719,9 +880,7 @@
 </figure>
 
 
-<p><br />
-<br />
-<br /></p>
+<p><br /></p>
 
 <h3 id="conceptual-framework-of-research-questions-with-public-health-importance">Conceptual framework of research questions with public  health importance</h3>
 
@@ -1454,6 +1613,16 @@
     </ul>
 
     
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="28.404952">
+      <input id="map-lng" value="77.253769">
+      <input id="map-dir" value="NCR Biotech Science Cluster, 3rd Milestone, Faridabad – Gurgaon Expressway, Faridabad, Haryana 121001">
+      <input id="map-zoom" value="13">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
+    
 
   </div>
 </div>
@@ -1489,6 +1658,8 @@
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     

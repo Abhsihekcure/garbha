@@ -51,7 +51,7 @@ subtitle = ""
 Globally, preterm birth is a major public health problem. In India, 3.6 million of the 27 million babies born annually are preterm. Risk stratification of women based on multidimensional risk factors assessed during pregnancy is critical for prevention of preterm birth. An interdisciplinary Group for Advanced Research in BirtH outcomes- DBT India Initiative (GARBH-Ini) has initiated a cohort study of pregnant women has been initiated in May 2015 at the civil hospital in Gurugram, Haryana, India with the ultimate objective (i) to acquire deep fundamental knowledge on adverse pregnancy outcomes such as preterm birth (PTB) and fetal growth restriction (FGR) and (ii) apply this knowledge to identify efficient and sustainable solutions that would assist in reducing associated mortality, immediate and long term morbidity.
 
 ### A schematic showing overview of the program
-{{< figure library="true" src="slide1.png" title="" lightbox="false" >}}
+{{< figure library="true" src="slide11.png" title="" lightbox="false" >}}
 
 
 
@@ -64,8 +64,6 @@ Globally, preterm birth is a major public health problem. In India, 3.6 million 
 ### Cohort description
 {{< figure library="true" src="slide2.png" title="" lightbox="false" >}}
 
-<br />
-<br />
 <br />
 
 ### Conceptual framework of research questions with public  health importance 
