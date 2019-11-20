@@ -65,8 +65,6 @@ Globally, preterm birth is a major public health problem. In India, 3.6 million 
 {{< figure library="true" src="slide2.png" title="" lightbox="false" >}}
 
 <br />
-<br />
-<br />
 
 ### Conceptual framework of research questions with public  health importance 
 {{< figure library="true" src="slide3.png" title="" lightbox="false" >}}

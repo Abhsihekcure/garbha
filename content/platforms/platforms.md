@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Platforms"
-subtitle = "As a part of the Garbhini program. A state of the art biorepository and Data management center are created at THSTI"
+subtitle = "As a part of the Garbhini program, a state of the art biorepository and Data management center are created at THSTI"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -69,7 +69,6 @@ Biorepository at THSTI assures standardized sample collection and storage of hig
 
 # Data Management Centre
 
-<br />
 <br />
 
 {{< figure library="true" src="slide1DM.png" title="Role of the Data Management Centre: Right from the conception of the project to even after the study ends. Initially created as part of Garbhini but has already suppprted 8 studies (4 completed, 4 active) till now." lightbox="false" >}}
