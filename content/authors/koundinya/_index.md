@@ -1,8 +1,8 @@
 ---
 authors:
-- ram
+- koundinya
 bio: 
-email: ""
+email: "bapukoundinyadesiraju@gmail.com"
 name: 'Dr. Bapu Koundinya Desiraju'
 
 social:

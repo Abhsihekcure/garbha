@@ -48,13 +48,25 @@ subtitle = ""
  css_class = ""
 +++
 
-Globally, preterm birth is a major public health problem. In India, 3.6 million of the 27 million babies born annually are preterm. Risk stratification of women based on multidimensional risk factors assessed during pregnancy is critical for prevention of preterm birth. An interdisciplinary Group for Advanced Research in BirtH outcomes- DBT India Initiative (GARBH-Ini) has initiated a cohort study of pregnant women has been initiated in May 2015 at the civil hospital in Gurugram, Haryana, India with the ultimate objective (i) to acquire deep fundamental knowledge on adverse pregnancy outcomes such as preterm birth (PTB) and fetal growth restriction (FGR) and (ii) apply this knowledge to identify efficient and sustainable solutions that would assist in reducing associated mortality, immediate and long term morbidity. The following figures describe the cohort framework and major research questions of the program.
+Globally, preterm birth is a major public health problem. In India, 3.6 million of the 27 million babies born annually are preterm. Risk stratification of women based on multidimensional risk factors assessed during pregnancy is critical for prevention of preterm birth. An interdisciplinary Group for Advanced Research in BirtH outcomes- DBT India Initiative (GARBH-Ini) has initiated a cohort study of pregnant women has been initiated in May 2015 at the civil hospital in Gurugram, Haryana, India with the ultimate objective (i) to acquire deep fundamental knowledge on adverse pregnancy outcomes such as preterm birth (PTB) and fetal growth restriction (FGR) and (ii) apply this knowledge to identify efficient and sustainable solutions that would assist in reducing associated mortality, immediate and long term morbidity.
+
+### A shematic showing overview of the prgram
+{{< figure library="true" src="slide1.png" title="" lightbox="false" >}}
+
+
+
+* Accounting for a cohort design to detect epidemiological risk factors & nested case-control design for identifying biomarkers, an apriori sample size of 8000 was estimated.
+
+* We are enrolling pregnant women early in pregnancy and certainly before  <20 weeks of gestation and willing to continue their care till delivery at GCH. 
+
+* The enrolled women are followed up 4-5 time-points across 3 trimesters of pregnancy to document extensive clinical & epidemiological information, varied maternal and neonatal  biospecimens and perform serial ultrasonographic examination.
+
+### Cohort description
+{{< figure library="true" src="slide2.png" title="" lightbox="false" >}}
 
 <br />
 <br />
+<br />
 
-{{< figure library="true" src="overview1.png" title="A caption" lightbox="false" >}}
-
-{{< figure library="true" src="overview2.png" title="A caption" lightbox="false" >}}
-
-{{< figure library="true" src="overview3.png" title="A caption" lightbox="false" >}}
+### Conceptual framework of research questions with public  health importance 
+{{< figure library="true" src="slide3.png" title="" lightbox="false" >}}

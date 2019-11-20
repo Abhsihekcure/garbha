@@ -5,12 +5,12 @@ name = "custom"
 light = true
 
 # Primary
-primary = "rgba(198,62,118,1)"
+primary = "rgba(128,0,128,1)"
 
 # Menu
 menu_primary = "rgb(34, 41, 93)"
 menu_text = "rgba(255,255,255,0.6)"
-menu_text_active = "rgba(198,62,118,1)"
+menu_text_active = "rgba(128,0,128,1)"
 menu_title = "#fff"
 
 # Home sections

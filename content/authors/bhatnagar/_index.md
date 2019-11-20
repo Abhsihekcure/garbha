@@ -3,7 +3,7 @@ authors:
 - dinkar
 bio: 
 email: ""
-name: 'Dr.Shinjini Bhatnagar'
+name: 'Dr. Shinjini Bhatnagar'
 
 social:
 - icon: twitter

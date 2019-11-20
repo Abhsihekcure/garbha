@@ -1,9 +1,9 @@
 ---
 authors:
-- koundinya
+- ram
 bio: 
 email: "ramachandran@thsti.res.in"
-name: 'DR. Ramachandran Thiruvengadam'
+name: 'Dr. Ramachandran Thiruvengadam'
 
 social:
 - icon: twitter
