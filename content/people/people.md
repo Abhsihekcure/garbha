@@ -16,7 +16,8 @@ title = ""
                  "Interdisciplinary Team",
                  "Clinical Team",
                  "Project Management Team",
-                 "Data Management Team"]
+                 "Data Management Team",
+                 "Collaborators"]
 
 
 
