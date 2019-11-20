@@ -4,7 +4,7 @@ authors:
 - dharmendra
 bio: 
 email: ""
-name: 'Dharmendra Sharma'
+name: 'Mr. Dharmendra Sharma'
 
 
 

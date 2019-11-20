@@ -4,7 +4,7 @@ authors:
 - suresh
 bio: 
 email: ""
-name: 'S S Suresh'
+name: 'Mr. S S Suresh'
 
 
 

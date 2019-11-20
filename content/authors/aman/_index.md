@@ -4,7 +4,7 @@ authors:
 - abhishek
 bio: 
 email: ""
-name: 'Amanpreet Singh'
+name: 'Mr. Amanpreet Singh'
 
 
 
