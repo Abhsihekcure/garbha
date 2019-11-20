@@ -17,10 +17,8 @@ title = ""
                  "Clinical Team",
                  "Project Management Team",
                  "Data Management Team",
-                 "Collaborators"]
-
-
-
+                 "Collaborators",
+                 "Funding Agencies"]
   
 +++
 

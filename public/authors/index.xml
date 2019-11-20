@@ -19,7 +19,11 @@
       <guid>/authors/admin/</guid>
       <description>
 
+ master
+&lt;p&gt;Garbh-ini (Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative) was initiated by the &lt;a href=&#34;http://dbtindia.gov.in&#34; target=&#34;_blank&#34;&gt;Department of Biotechnology (DBT)&lt;/a&gt;, in 2014 as a collaborative interdisciplinary program. This program is led by Translational Health Science and Technology Institute (THSTI), NCR Biotech cluster, Faridabad.&lt;/p&gt;
+
 &lt;p&gt;Garbh-ini (Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative) was initiated by the Department of Biotechnology (DBT), in 2014 as a collaborative interdisciplinary program. This program is led by Translational Health Science and Technology Institute (THSTI), NCR Biotech cluster, Faridabad.&lt;/p&gt;
+master
 
 &lt;p&gt;Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth.&lt;/p&gt;
 
@@ -363,6 +367,7 @@
       <title>Takeda K</title>
       <link>/authors/takeda-k/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+ master
       
       <guid>/authors/takeda-k/</guid>
       <description></description>
@@ -381,17 +386,64 @@
       <title>Vestergaard H</title>
       <link>/authors/vestergaard-h/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+
+ master
       
       <guid>/authors/vestergaard-h/</guid>
       <description></description>
     </item>
     
     <item>
+ master
       <title>Wadhwa N</title>
       <link>/authors/wadhwa-n/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
       
       <guid>/authors/wadhwa-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/birac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <title>Tripathi R</title>
+      <link>/authors/tripathi-r/</link>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+ master
+      
+      <guid>/authors/birac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+ master
+      <title></title>
+      <link>/authors/dbt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <title>Vestergaard H</title>
+      <link>/authors/vestergaard-h/</link>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+ master
+      
+      <guid>/authors/dbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+ master
+      <title></title>
+      <link>/authors/uoxford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <title>Wadhwa N</title>
+      <link>/authors/wadhwa-n/</link>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+ master
+      
+      <guid>/authors/uoxford/</guid>
       <description></description>
     </item>
     
