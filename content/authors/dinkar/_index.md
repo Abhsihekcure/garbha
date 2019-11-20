@@ -3,7 +3,7 @@ authors:
 - dinkar
 bio: 
 email: ""
-name: 'Dr.Dinakar Salunke'
+name: 'Dr. Dinakar Salunke'
 
 social:
 - icon: twitter

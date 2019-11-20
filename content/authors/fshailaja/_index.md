@@ -3,7 +3,7 @@ authors:
 - shailaja
 bio: 
 email: ""
-name: 'DR. Shailaja Sopory'
+name: 'Dr. Shailaja Sopory'
 
 social:
 - icon: twitter

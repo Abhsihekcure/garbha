@@ -3,7 +3,7 @@ authors:
 - koundinya
 bio: 
 email: ""
-name: 'DR. Bhabatosh Das'
+name: 'Dr. Bhabatosh Das'
 
 social:
 - icon: twitter

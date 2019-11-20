@@ -397,49 +397,10 @@
     
     <item>
       <title></title>
-      <link>/authors/abhi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/abhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/ali/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/ashu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ashu/</guid>
-
       <link>/authors/aman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/aman/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/auma/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-
-      <link>/authors/ashu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ashu/</guid>
       <description></description>
     </item>
     
@@ -457,7 +418,6 @@
       <link>/authors/auma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
- master
       <guid>/authors/auma/</guid>
       <description></description>
     </item>
@@ -537,36 +497,19 @@ Post-doctoral fellow Harvard Medical School, Boston. USA&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/cpartha/</guid>
- master
-      <description>&lt;p&gt;PARTHA P MAJUMDER&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Email:   ppm1@nibmg.ac.in&lt;/p&gt;
-
-&lt;p&gt;Present Position:  Distinguished Professor&lt;/p&gt;
-
-&lt;p&gt;Highest educational Qualification:  Ph.D.(Statistics); Indian Statistical Institute, Kolkata&lt;/p&gt;
-
-&lt;p&gt;Research Interests&lt;/p&gt;
-
-&lt;p&gt;Human Genome Variation :
-                                   There is considerable variation among genomes of individuals, who are often clustered in social groups in geographically proximal regions.  I am interested in the study of such variation to draw inferences on human evolution, population structure, susceptibilities to diseases, responses to drugs and vaccines, etc.&lt;/p&gt;
-
-&lt;p&gt;Statistical Genomics :
-                             I am interested in statistical applications and in developing methodologies for drawing statistically valid inferences from genomic data.&lt;/p&gt;
-
-      <description>&lt;p&gt;[Biography]&lt;/p&gt;
+&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
 
 &lt;p&gt;Professor Partha Pratim Majumder has completed his PhD from the Indian Statistical Institute, Kolkata. In the course of his extensive and distinguished academic career, he has served in various positions in University of Texas, Indian Statistical Institute, University of Pittsburgh, Jawaharlal Nehru Centre for Advanced Scientific Research and Indian Institute of Science Education &amp;amp; Research. He was the Founder Director of the TCG-ISI Centre for Population Genomics, and also of the National Institute of Biomedical Genomics. Presently, he is a Distinguished Professor at NIBMG, Emeritus Professor at Indian Statistical Institute, Adjunct Professor of the Translational Health Science &amp;amp; Technology Institute and Regional Centre for Biotechnology.  He is currently the President of the Indian Academy of Sciences and the West Bengal Academy of Science &amp;amp; Technology.&lt;/p&gt;
 
-&lt;p&gt;Research Interest&lt;/p&gt;
+&lt;h2 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h2&gt;
 
 &lt;p&gt;Human Genome Variation: I am interested in reconstruction of human movements using genomic data, inferring genetic structures of population groups and admixtures among them, and using these inferences to understand genetic epijdemiolgy of disease.
 Statistical Genomics: I am interested in developing statistical methodologies and applying statistical methods in genetics.
 Genetics and Genomics of Disease:  I am interested in drawing inferences on genetic bases of human diseases and adverse life events using data on families, relative pairs and unrelated individuals.  My current focus is on cancer and pre-term birth.&lt;/p&gt;
 
-&lt;p&gt;Institute web page link
-&lt;a href=&#34;https://www.nibmg.ac.in/?q=content/ppm1-research&#34; target=&#34;_blank&#34;&gt;https://www.nibmg.ac.in/?q=content/ppm1-research&lt;/a&gt;&lt;/p&gt;
- master
+&lt;p&gt;&lt;a href=&#34;https://www.nibmg.ac.in/?q=content/ppm1-research&#34; target=&#34;_blank&#34;&gt;Institute web page link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -621,33 +564,6 @@ Associate Professor&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/earindam/</guid>
- master
-      <description>&lt;p&gt;ARINDAM MAITRA&lt;/p&gt;
-
-&lt;p&gt;Email:   am1@nibmg.ac.in&lt;/p&gt;
-
-&lt;p&gt;Present Position:   Associate Professor&lt;/p&gt;
-
-&lt;p&gt;Highest educational Qualification:  Ph.D.&lt;/p&gt;
-
-&lt;p&gt;Research:&lt;/p&gt;
-
-&lt;p&gt;The “Genomics and Global Health Report 2004” has identified genomics as “the powerful new wave of health-related life sciences” with tremendous potential to address unresolved health problems, especially in the developing countries. My research mission is to rise to this challenge by harnessing emerging genomics technologies to uncover important and novel information on human health and disease. The emergence of techniques like massively parallel DNA sequencing methods (MPS) has revolutionized our ability to identify causal genomic variants in various human health conditions. Exome and whole genome sequencing based approaches have already been shown to be successful in uncovering the genetic basis of multiple diseases. My aim is to harness emerging technologies like MPS to identify the genetic basis of causality of diseases with special emphasis on maternal and infant health (preterm birth) and cancer. The ultimate purpose of undertaking such work is to discover important genetic information which can be translated into the identification of actionable targets to reduce the public health burden.&lt;/p&gt;
-
-&lt;p&gt;I believe in the emanation of scientific knowledge for capacity building in research, in building a partnership with the industry and in engaging with the community at large. Hence, my activities and future plans are geared toward the realization of these goals. I actively participate in the teaching activities and workshops that are hosted for students and clinicians. I also participate in various programs with the industry and in the community programs undertaken by the institute to engage with the general population on biomedical genomics.&lt;/p&gt;
-
-&lt;p&gt;Projects: (extramurally funded)&lt;/p&gt;
-
-&lt;p&gt;Maternal &amp;amp; Infant Health:&lt;/p&gt;
-
-&lt;p&gt;Project Coordinator &amp;amp; Principal Investigator. Grand Challenge India Grant (DBT, Bill &amp;amp; Melinda Gates Foundation, BIRAC &amp;amp; USAID): “Stress outcomes on pregnancy, fetal growth and birth weight Development of methods to identify mothers at risk of preterm birth and intrauterine growth restriction resulting from maternal stress.” Collaborators: Dr. Nitya Wadhwa, Pediatric Biology Center, Translational Health Science &amp;amp; Technology Institute (THSTI) &amp;amp; Dr. Tushar Kanti Maiti, Regional Centre for Biotechnology, Faridabad.&lt;/p&gt;
-
-&lt;p&gt;Co – investigator. Grand Challenge Program (DBT): “Inter-institutional program for Maternal, Neonatal and Infant Sciences – A translational approach to studying Preterm Birth.” Principal Investigator (NIBMG): Professor Partha Pratim Majumder. Project Coordinator and Principal Investigator (THSTI): Professor Shinjini Bhatnagar. Collaborators: THSTI, RCB, Civil Hospital Gurgaon, Safderjung Hospital, AIIMS, MAMC.&lt;/p&gt;
-
-&lt;p&gt;Co – investigator. Research &amp;amp; Development Grant (DBT): “Molecular Basis of Nutrient Mediated Fetal Programming of Diabesity.” Principal Investigator (NIBMG): Professor Partha Pratim Majumder. Team Leader and Principal Investigator (KEMHRC): Professor Chittaranjan S Yajnik. Collaborators: KEHMRC, CCMB, IISER – Pune, IISc.&lt;/p&gt;
-
-&lt;p&gt;Co – investigator. Research &amp;amp; Development Grant (DBT West Bengal Govt.) “A Pilot Study on the Role of Gut Microbiome in Gestational Diabetes Mellitus.” Collaborator: Professor Subhankar Chowdhury, IPGMER.&lt;/p&gt;
-
       <description>&lt;p&gt;[Biography]&lt;/p&gt;
 
 &lt;p&gt;I have undertaken my doctoral research on genomic diversity of HIV-1 in India in the All India Institute of Medical Sciences, New Delhi. Subsequently, I have been engaged as Technical Support Scientist in Applied Biosystems as a member of European Task Forces on high throughput sequencing, gene expression, genotyping and forensic DNA analysis. Subsequently, I have also been Group Leader of Genomics in The Centre for Genomic Application (TCGA), New Delhi and Head of Functional Genomics in Thrombosis Research Institute, Bengaluru. Presently, I am an Associate Professor in National Institute of Biomedical Genomics. I am also the Coordinator of Core Technologies Research Initiative of NIBMG, Project Coordinator of the International Cancer Genome Consortium – India Project at NIBMG, Adjunct Faculty of Regional Centre for Biotechnology and Guest Lecturer of Department of Biochemistry, University of Calcutta.&lt;/p&gt;
@@ -663,7 +579,6 @@ Stress outcomes on pregnancy and fetal growth: Development of methods to identif
 
 &lt;p&gt;Dr. Arindam Maitra (NIBMG) Nitya Wadhwa (THSTI) &amp;amp; Tushar K. Maiti (RCB)
 The goals of our study are to contribute to the understanding of the causes of adverse pregnancy outcomes and to find handles to ameliorate these outcomes. In particular, we shall test the hypothesis that sustained stress during pregnancy is a major contributor to adverse pregnancy outcomes. Our objective is to identify biological markers of stress during pregnancy that correlate with enhanced risk of adverse outcomes in mothers and their babies. Once identified, such at-risk mothers can be subjected to specific antenatal stress control programs aimed to eliminate or reduce stress during pregnancy. We are measuring stress by a cross-culturally validated psychological instrument (A-Z Score) and biologically by assaying for telomere length, DNA methylation alterations, levels of hair shaft cortisol and by proteomic analysis in mothers at two time points during pregnancy. This study has been funded by the Grand Challenge India – All Children Thriving Program.&lt;/p&gt;
- master
 </description>
     </item>
     
@@ -715,8 +630,6 @@ Cutting edge expertise in drug discovery area with a detailed understanding of d
 &lt;p&gt;Immune cells in pregnancy are actively and specifically recruited to facilitate the  implantation of fetus in mother’s womb and promote a successful pregnancy.Several studies have been conducted by various research groups to identify the specific immunological patterns in pregnancy which are essential for a normal term birth of infant. An alteration in one or more of these components however, may lead to adverse outcomes of pregnancy such as IUGR, preterm birth and stillbirth.My current research interest is to conduct specific mechanistic studies to decipher the immunological patterns related to feto-maternal tolerance in predicting adverse of pregnancy and use of nutraceuticals to boost the feto-maternal tolerance.&lt;/p&gt;
 
 &lt;p&gt;I am also interested in conducting the immunological and metabolite profiling of biological samples from the Garbhini cohort to understand the biology of stillbirth cases utilizing the transcriptome, metabolome and microbiome approaches.Specific mechanistic studies based on above would lead us to understand the role of nutraceuticals to avoid/reduce the cases of still birth in India.&lt;/p&gt;
- master
-
 </description>
     </item>
     
@@ -735,28 +648,11 @@ The main focus of Dr. Das’s research is oriented to understand (i) The ecologi
 
 &lt;p&gt;Personal website/Institute web page link
 &lt;a href=&#34;http://thsti.res.in/profile/Bhabatosh-Das&#34; target=&#34;_blank&#34;&gt;http://thsti.res.in/profile/Bhabatosh-Das&lt;/a&gt;.&lt;/p&gt;
- master
 </description>
     </item>
     
     <item>
       <title></title>
- master
-      <link>/authors/hbhabatosh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hbhabatosh/</guid>
-      <description>&lt;p&gt;DR. BHABATOSH DAS, M.Tech., Ph.D.&lt;br /&gt;
-Assistant Professor
-+91-129-2876471
-bhabatosh@thsti.res.in
-2017: JSPS Fellow, Osaka University, Japan
-2008-2011: CNRS Fellow, The Institute of Integrative Biology of the Cell, France
-2006-2008: CSIR Research Fellow, Indian Institute of Chemical Biology, India
-2003-2006: ICMR Research Fellow, Indian Institute of Chemical Biology, India
-2001-2003: M.Tech., Biotech. &amp;amp; Biochem. Eng., IIT-Kharagpur, India
-1998-2000: M.Sc., Zoology, Visva-Bharati University, Santiniketan, India&lt;/p&gt;
-
       <link>/authors/iram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -772,385 +668,123 @@ Faridabad-121001.&lt;/p&gt;
 &lt;p&gt;Mobile: 9968859583&lt;/p&gt;
 
 &lt;p&gt;Office: 0129-2876361&lt;/p&gt;
- master
 </description>
     </item>
     
     <item>
       <title></title>
- master
-      <link>/authors/iram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/iram/</guid>
-
       <link>/authors/koundinya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/koundinya/</guid>
- master
       <description></description>
     </item>
     
     <item>
       <title></title>
- master
-      <link>/authors/koundinya/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/koundinya/</guid>
-
       <link>/authors/mahadev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/mahadev/</guid>
- master
       <description></description>
     </item>
     
     <item>
       <title></title>
- master
-      <link>/authors/mukesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mukesh/</guid>
-
-      <link>/authors/mshubhrata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mshubhrata/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/priyanka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/priyanka/</guid>
-
-      <link>/authors/mudita/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mudita/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/rahul/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rahul/</guid>
-
-      <link>/authors/mukesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mukesh/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/rajkumar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rajkumar/</guid>
-
-      <link>/authors/nmanisha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/nmanisha/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/rakesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rakesh/</guid>
-
-      <link>/authors/nshabana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/nshabana/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/ramesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ramesh/</guid>
-
-      <link>/authors/ostuti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ostuti/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/ritesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ritesh/</guid>
-
-      <link>/authors/priyanka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/priyanka/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/sandeep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sandeep/</guid>
-
-      <link>/authors/psantosh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/psantosh/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/shilpa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/shilpa/</guid>
-
-      <link>/authors/qkanpuriya/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/qkanpuriya/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
-      <link>/authors/srichand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/srichand/</guid>
-
-      <link>/authors/rahul/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rahul/</guid>
- master
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
- master
       <link>/authors/suresh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/suresh/</guid>
-
-      <link>/authors/rajkumar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rajkumar/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>ARINDAM MAITRA</title>
       <link>/authors/arindam-maitra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/arindam-maitra/</guid>
-
-      <title></title>
-      <link>/authors/rakesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rakesh/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>Ruchi</title>
       <link>/authors/ruchi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/ruchi/</guid>
-
-      <title></title>
-      <link>/authors/ramesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ramesh/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>Tushar K Maiti</title>
       <link>/authors/tushar-k-maiti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/tushar-k-maiti/</guid>
-
-      <title></title>
-      <link>/authors/richa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/richa/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>abhishek</title>
       <link>/authors/abhishek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/abhishek/</guid>
-
-      <title></title>
-      <link>/authors/ritesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ritesh/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>dharmendra</title>
       <link>/authors/dharmendra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/dharmendra/</guid>
-
-      <title></title>
-      <link>/authors/rmonika/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rmonika/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>pallavi</title>
       <link>/authors/pallavi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/pallavi/</guid>
-
-      <title></title>
-      <link>/authors/sadhna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sadhna/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>partha</title>
       <link>/authors/partha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/partha/</guid>
-
-      <title></title>
-      <link>/authors/sandeep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sandeep/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>ram</title>
       <link>/authors/ram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/ram/</guid>
-
-      <title></title>
-      <link>/authors/shilpa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/shilpa/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>shailaja</title>
       <link>/authors/shailaja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/shailaja/</guid>
-
-      <title></title>
-      <link>/authors/srichand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/srichand/</guid>
- master
       <description></description>
     </item>
     
     <item>
- master
       <title>uma</title>
       <link>/authors/uma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/uma/</guid>
-
-      <title></title>
-      <link>/authors/suresh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/suresh/</guid>
- master
       <description></description>
     </item>
     
