@@ -437,12 +437,7 @@
   </url>
   
   <url>
- final_people
-    <loc>/authors/agch/</loc>
-
- master
-    <loc>/authors/birac/</loc>
- master
+    <loc>/authors/agenetic/</loc>
   </url>
   
   <url>
@@ -450,17 +445,23 @@
   </url>
   
   <url>
+    <loc>/authors/anibmg/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/arcb/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/asumit/</loc>
   </url>
   
   <url>
- final_people
     <loc>/authors/auma/</loc>
-
-
- master
-    <loc>/authors/aiims/</loc>
- master
+  </url>
+  
+  <url>
+    <loc>/authors/bgch/</loc>
   </url>
   
   <url>
@@ -477,14 +478,6 @@
   
   <url>
     <loc>/authors/cdsa/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/cgenetic/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/cibmg/</loc>
   </url>
   
   <url>
@@ -528,19 +521,11 @@
   </url>
   
   <url>
-    <loc>/authors/gruchi/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/hamdard/</loc>
   </url>
   
   <url>
     <loc>/authors/hbhabatosh/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/iiser/</loc>
   </url>
   
   <url>
@@ -598,11 +583,6 @@
   
   <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/ruchi/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
