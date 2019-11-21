@@ -8,7 +8,7 @@ name: 'Clinical Development Services Agency'
 
 
 superuser: true
-user_groups: ["Collaborators"]
+user_groups: ["Internal Quality Control Team"]
 ---
 
  *	Sugandha Arya

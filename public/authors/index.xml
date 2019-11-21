@@ -22,10 +22,14 @@
  master
 &lt;p&gt;Garbh-ini (Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative) was initiated by the &lt;a href=&#34;http://dbtindia.gov.in&#34; target=&#34;_blank&#34;&gt;Department of Biotechnology (DBT)&lt;/a&gt;, in 2014 as a collaborative interdisciplinary program. This program is led by Translational Health Science and Technology Institute (THSTI), NCR Biotech cluster, Faridabad.&lt;/p&gt;
 
+ final_people
+&lt;p&gt;Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth. Three DBT institutes and the Government of Haryana have partnered with each other to make this initiative possible.&lt;/p&gt;
+
 &lt;p&gt;Garbh-ini (Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative) was initiated by the Department of Biotechnology (DBT), in 2014 as a collaborative interdisciplinary program. This program is led by Translational Health Science and Technology Institute (THSTI), NCR Biotech cluster, Faridabad.&lt;/p&gt;
 master
 
 &lt;p&gt;Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth.&lt;/p&gt;
+ master
 
 &lt;h3 id=&#34;partner-institutes&#34;&gt;Partner Institutes&lt;/h3&gt;
 
@@ -405,7 +409,7 @@ master
     
     <item>
       <title></title>
-      <link>/authors/birac/</link>
+      <link>/authors/agch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
       <title>Tripathi R</title>
@@ -413,6 +417,9 @@ master
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
  master
       
+ final_people
+      <guid>/authors/agch/</guid>
+
       <guid>/authors/birac/</guid>
       <description></description>
     </item>
@@ -453,10 +460,11 @@ master
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/aiims/</guid>
+ master
       <description>&lt;ul&gt;
-&lt;li&gt;Smriti Hari&lt;/li&gt;
-&lt;li&gt;Yashdeep Gupta&lt;/li&gt;
-&lt;li&gt;Nikhil Tandon&lt;/li&gt;
+&lt;li&gt;Sunita Sharma&lt;/li&gt;
+&lt;li&gt;Umesh Mehta&lt;/li&gt;
+&lt;li&gt;Brahmdeep Sindhu&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -538,6 +546,21 @@ application platform, online e-courses) to enhance the Indian clinical research 
     
     <item>
       <title></title>
+      <link>/authors/bsafdarjung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bsafdarjung/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sugandha Arya&lt;/li&gt;
+&lt;li&gt;Rekha Bharti&lt;/li&gt;
+&lt;li&gt;Harish Chellani&lt;/li&gt;
+&lt;li&gt;Pratima Mittal&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/cdsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -547,6 +570,28 @@ application platform, online e-courses) to enhance the Indian clinical research 
 &lt;li&gt;Monika Bahl&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/cgenetic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cgenetic/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Dinakar M. Salunke
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/cibmg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cibmg/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -599,10 +644,33 @@ Genetics and Genomics of Disease:  I am interested in drawing inferences on gene
     
     <item>
       <title></title>
+      <link>/authors/daiims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daiims/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Smriti Hari&lt;/li&gt;
+&lt;li&gt;Yashdeep Gupta&lt;/li&gt;
+&lt;li&gt;Nikhil Tandon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/dharma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/dharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/diit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/diit/</guid>
       <description></description>
     </item>
     
@@ -692,29 +760,11 @@ We have started off by looking at the effects of antenatal inflammation on fetal
     
     <item>
       <title></title>
-      <link>/authors/gch/</link>
+      <link>/authors/goxford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/gch/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Sunita Sharma&lt;/li&gt;
-&lt;li&gt;Umesh Mehta&lt;/li&gt;
-&lt;li&gt;Brahmdeep Sindhu&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/genetic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/genetic/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Dinakar M. Salunke
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>/authors/goxford/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -844,21 +894,6 @@ Faridabad-121001.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/safdarjung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/safdarjung/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Sugandha Arya&lt;/li&gt;
-&lt;li&gt;Rekha Bharti&lt;/li&gt;
-&lt;li&gt;Harish Chellani&lt;/li&gt;
-&lt;li&gt;Pratima Mittal&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/suresh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -874,19 +909,6 @@ Faridabad-121001.&lt;/p&gt;
       <guid>/authors/ultrasound/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Ashok Khurana&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/zhariyana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/zhariyana/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Rakesh Gupta
-&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

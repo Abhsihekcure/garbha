@@ -437,22 +437,12 @@
   </url>
   
   <url>
- master
-    <loc>/authors/birac/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/dbt/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/uoxford/</loc>
-  </url>
-  
-  <url>
+ final_people
+    <loc>/authors/agch/</loc>
 
  master
-    <loc>/authors/aiims/</loc>
+    <loc>/authors/birac/</loc>
+ master
   </url>
   
   <url>
@@ -464,7 +454,13 @@
   </url>
   
   <url>
+ final_people
     <loc>/authors/auma/</loc>
+
+
+ master
+    <loc>/authors/aiims/</loc>
+ master
   </url>
   
   <url>
@@ -476,7 +472,19 @@
   </url>
   
   <url>
+    <loc>/authors/bsafdarjung/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/cdsa/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/cgenetic/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/cibmg/</loc>
   </url>
   
   <url>
@@ -488,7 +496,15 @@
   </url>
   
   <url>
+    <loc>/authors/daiims/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/dharma/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/diit/</loc>
   </url>
   
   <url>
@@ -508,11 +524,7 @@
   </url>
   
   <url>
-    <loc>/authors/gch/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/genetic/</loc>
+    <loc>/authors/goxford/</loc>
   </url>
   
   <url>
@@ -548,19 +560,11 @@
   </url>
   
   <url>
-    <loc>/authors/safdarjung/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/suresh/</loc>
   </url>
   
   <url>
     <loc>/authors/ultrasound/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/zhariyana/</loc>
   </url>
   
   <url>

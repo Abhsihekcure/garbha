@@ -11,7 +11,7 @@ social:
   link: people
 
 superuser: false
-user_groups: ["Principal Investigators"]
+user_groups: ["Co-Principal Investigators"]
 ---
 ## Biography
 
