@@ -19,17 +19,9 @@
       <guid>/authors/admin/</guid>
       <description>
 
- master
 &lt;p&gt;Garbh-ini (Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative) was initiated by the &lt;a href=&#34;http://dbtindia.gov.in&#34; target=&#34;_blank&#34;&gt;Department of Biotechnology (DBT)&lt;/a&gt;, in 2014 as a collaborative interdisciplinary program. This program is led by Translational Health Science and Technology Institute (THSTI), NCR Biotech cluster, Faridabad.&lt;/p&gt;
 
- final_people
-&lt;p&gt;Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth. Three DBT institutes and the Government of Haryana have partnered with each other to make this initiative possible.&lt;/p&gt;
-
-&lt;p&gt;Garbh-ini (Interdisciplinary Group for Advanced Research on Birth Outcomes—DBT India Initiative) was initiated by the Department of Biotechnology (DBT), in 2014 as a collaborative interdisciplinary program. This program is led by Translational Health Science and Technology Institute (THSTI), NCR Biotech cluster, Faridabad.&lt;/p&gt;
-master
-
-&lt;p&gt;Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth.&lt;/p&gt;
- master
+&lt;p&gt;Garbh-Ini is a cohort study of pregnant women initiated in May 2015 at the civil hospital in Gurugram, Haryana, India. Women are enrolled within 20 weeks of gestation and are followed until delivery and once postpartum. The objectives are to identify clinical, epidemiologic, genomic, epigenomic, proteomic, and microbial correlates; discover molecular-risk markers by using an integrative -omics approach; and generate a risk-prediction algorithm for preterm birth. &lt;strong&gt;Three DBT institutes and the Gurugram civil hospital, Government of Haryana have partnered with each other to make this initiative possible&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;partner-institutes&#34;&gt;Partner Institutes&lt;/h3&gt;
 
@@ -371,7 +363,6 @@ master
       <title>Takeda K</title>
       <link>/authors/takeda-k/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
- master
       
       <guid>/authors/takeda-k/</guid>
       <description></description>
@@ -390,15 +381,12 @@ master
       <title>Vestergaard H</title>
       <link>/authors/vestergaard-h/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
-
- master
       
       <guid>/authors/vestergaard-h/</guid>
       <description></description>
     </item>
     
     <item>
- master
       <title>Wadhwa N</title>
       <link>/authors/wadhwa-n/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
@@ -409,62 +397,13 @@ master
     
     <item>
       <title></title>
-      <link>/authors/agch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <title>Tripathi R</title>
-      <link>/authors/tripathi-r/</link>
-      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
- master
-      
- final_people
-      <guid>/authors/agch/</guid>
-
-      <guid>/authors/birac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
- master
-      <title></title>
-      <link>/authors/dbt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <title>Vestergaard H</title>
-      <link>/authors/vestergaard-h/</link>
-      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
- master
-      
-      <guid>/authors/dbt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
- master
-      <title></title>
-      <link>/authors/uoxford/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <title>Wadhwa N</title>
-      <link>/authors/wadhwa-n/</link>
-      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
- master
-      
-      <guid>/authors/uoxford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/aiims/</link>
+      <link>/authors/agenetic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/aiims/</guid>
- master
+      <guid>/authors/agenetic/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Sunita Sharma&lt;/li&gt;
-&lt;li&gt;Umesh Mehta&lt;/li&gt;
-&lt;li&gt;Brahmdeep Sindhu&lt;/li&gt;
+&lt;li&gt;Dinakar M. Salunke
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -475,6 +414,24 @@ master
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/aman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/anibmg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/anibmg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/arcb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/arcb/</guid>
       <description></description>
     </item>
     
@@ -494,6 +451,20 @@ master
       
       <guid>/authors/auma/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/bgch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bgch/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sunita Sharma&lt;/li&gt;
+&lt;li&gt;Umesh Mehta&lt;/li&gt;
+&lt;li&gt;Brahmdeep Sindhu&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -570,28 +541,6 @@ application platform, online e-courses) to enhance the Indian clinical research 
 &lt;li&gt;Monika Bahl&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/cgenetic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/cgenetic/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Dinakar M. Salunke
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/cibmg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/cibmg/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -769,33 +718,6 @@ We have started off by looking at the effects of antenatal inflammation on fetal
     
     <item>
       <title></title>
-      <link>/authors/gruchi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/gruchi/</guid>
-      <description>&lt;p&gt;[biography] :
-Cutting edge expertise in drug discovery area with a detailed understanding of disease biology utilizing basic science as well as applied biochemistry,cell &amp;amp; molecularbiology and organic chemistry. Worked with leading pharma companies of India and international repute such as Daiichi Sankyo, Ranbaxy and Torrent. Led and managed the global research portfolio managing programs from early discovery to preclinical development for complex human diseases related to inflammation &amp;amp; immunology,respiratory and metabolic disorders utilizing the small molecule,herbal nutraceutical and biologics approaches.
- *  PhD (Immunomodulatory Peptides) CDRI, Lucknow, India, 1997&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Postdoctoral Research Associate, National Institute of Immunology, New Delhi,         India, 1997-2000&lt;/li&gt;
-&lt;li&gt;Postdoctoral Research Associate, Wayne State University, MI, USA, 2000-2002&lt;/li&gt;
-&lt;li&gt;Drug Discovery Research (Metabolic diseases, Oncology and Autoimmune disorders,       while working with leading Indian &amp;amp; multinational Pharma companies such as Torrent     Research Centre, Ranbaxy Research Laboratories and Daiichi Sankyo Pharma),            2002-2017&lt;/li&gt;
-&lt;li&gt;Clinical Research Course and Certification, Anovus Institute of Clinical Research     &amp;amp; Punjab Technical University, India, 2014&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Previous Affiliation: Assistant Director and Group Head Pharmacology, Daiichi         Sankyo Life Science Research Centre in India, Gurgaon, India&lt;/p&gt;
-
-&lt;p&gt;Research interests&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Immune cells in pregnancy are actively and specifically recruited to facilitate the  implantation of fetus in mother’s womb and promote a successful pregnancy.Several studies have been conducted by various research groups to identify the specific immunological patterns in pregnancy which are essential for a normal term birth of infant. An alteration in one or more of these components however, may lead to adverse outcomes of pregnancy such as IUGR, preterm birth and stillbirth.My current research interest is to conduct specific mechanistic studies to decipher the immunological patterns related to feto-maternal tolerance in predicting adverse of pregnancy and use of nutraceuticals to boost the feto-maternal tolerance.&lt;/p&gt;
-
-&lt;p&gt;I am also interested in conducting the immunological and metabolite profiling of biological samples from the Garbhini cohort to understand the biology of stillbirth cases utilizing the transcriptome, metabolome and microbiome approaches.Specific mechanistic studies based on above would lead us to understand the role of nutraceuticals to avoid/reduce the cases of still birth in India.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/hamdard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -824,19 +746,6 @@ Cutting edge expertise in drug discovery area with a detailed understanding of d
 The main focus of Dr. Das’s research is oriented to understand (i) The ecological principles of the microbial communities inhibiting in the human body and their role in health and diseases (ii) Vaginal microbiome of Indian women and its importance in birth outcomes and (iii) Role of human associated microbiota in the emergence and spread of multidrug resistant (MDR) bacterial pathogens.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://thsti.res.in/profile/Bhabatosh-Das&#34; target=&#34;_blank&#34;&gt;Institute web page link&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/iiser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/iiser/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Vineeta Bal
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -919,15 +828,6 @@ Faridabad-121001.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/arindam-maitra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ruchi</title>
-      <link>/authors/ruchi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ruchi/</guid>
       <description></description>
     </item>
     
