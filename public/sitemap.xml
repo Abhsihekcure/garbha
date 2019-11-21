@@ -437,7 +437,12 @@
   </url>
   
   <url>
+ final_people
     <loc>/authors/agch/</loc>
+
+ master
+    <loc>/authors/birac/</loc>
+ master
   </url>
   
   <url>
@@ -449,7 +454,13 @@
   </url>
   
   <url>
+ final_people
     <loc>/authors/auma/</loc>
+
+
+ master
+    <loc>/authors/aiims/</loc>
+ master
   </url>
   
   <url>
