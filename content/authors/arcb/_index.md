@@ -15,7 +15,6 @@ user_groups: ["Collaborators"]
  *	Institute/University: Regional Center for Biotechnology  
  *	Address: NCR-Biotech Science Cluster, 3rd Milestone Gurgaon-Faridabad Expressway,     PO Box 4, Faridabad
     PIN: 121001
-    Telephone: 0129-2876
  *	E-mail: tkmaiti@rcb.res.in
  
 ### Dr. Dinakar M. Salunke
