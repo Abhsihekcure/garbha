@@ -10,8 +10,7 @@ name: 'International Centre for Genetic Engineering and Biotechnology'
 superuser: false
 user_groups: ["Collaborators"]
 ---
-
- *	Dinakar M. Salunke
+### Dr. Dinakar M. Salunke
   
  
 
