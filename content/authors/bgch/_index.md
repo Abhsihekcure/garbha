@@ -24,9 +24,11 @@ user_groups: ["Collaborators"]
  *	E-mail: umeshmehtaknl@rediffmail.com 
  
 ### Dr. Brahmdeep Sindhu
+{{< figure library="true" src="brahmdeep.jpg" title="Dr. Brahmdeep Sindhu"  lightbox="false" >}}
+### ******  
  *	Designaton : Senior Medical Officer
  *	Department : Department of Psychiatrys
  *	Institute/University: Gurgaon Civil Hospital  
  *	Address: Opp. Municipal Committee Office Pin: 122001 
  *	E-mail: bdsindhu@gmail.com
-
+### ****** 
