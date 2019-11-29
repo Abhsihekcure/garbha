@@ -13,10 +13,9 @@ user_groups: ["Collaborators"]
 {{< figure library="true" src="smriti.jpg" title="Dr. Smriti Hari"  lightbox="false" >}}
 ### ******   
  *	Designaton : Professor
- *	E-mail: smritihari@hotmail.com
  *	Institute/University: All India Institute of Medical Sciences, Delhi  
  *	Address: All India Institute of Medical Sciences, Delhi, Pin: 110029 
- 
+ *	E-mail: smritihari@hotmail.com 
 ### ****** 
 {{< figure library="true" src="yashdeep.jpg" title="Dr. Yashdeep Gupta"  lightbox="false" >}}
 ### ****** 
