@@ -17,6 +17,19 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "News"
+  content = "5-6th March, 2020 (Workshop), Innovative solutions for maternal and child  health using medical image analysis and AI"
+  align = "left"
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "illustration.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  cta_label = "click here"
+  cta_url = "/workshop"
+  
+[[item]]
+  title = "News"
   content = "One of the five Atal Jaianusandhan Biotech missions"
   align = "left"  # Choose `center`, `left`, or `right`.
 
@@ -55,16 +68,5 @@ height = "300px"
   cta_label = "click here"
   cta_url = "https://www.youtube.com/watch?v=b8cGvXRz1rE&feature=youtu.be"
   
-  [[item]]
-  title = "News"
-  content = "5-6th March, 2020 (Workshop), Innovative solutions for maternal and child  health using medical image analysis and AI"
-  align = "left"
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "/headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  cta_label = "click here"
-  cta_url = "/workshop"
+  
 +++

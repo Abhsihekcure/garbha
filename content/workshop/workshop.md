@@ -7,10 +7,8 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 24  # Order that this section will appear.
-
-title = "Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence"
+title = ""
 subtitle = ""
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -47,6 +45,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+{{< figure library="true" src="illustration.png" title="" lightbox="true" >}}
+# Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence
+
 ### Background 
 Maternal and child health is a key indicator of the health of a society particularly in low-middle income countries. A major challenge is the lack of cutting edge applications for  prevention and early diagnosis of diseases that have public health implications. One way forward is to use the recent advances in medical image analysis for addressing these issues. Machine learning, especially deep learning, is an innovative method to  identify, classify, and quantify patterns in medical images that can be used to develop  relevant tools for clinical and public health applications. Additionally, these tools can provide understanding of underlying biological mechanisms. Interdisciplinary groups working in synergy would further augment this initiative. This workshop on “Innovative solutions for maternal and child  health using medical image analysis and AI” will bring together  clinicians, physician-scientists, biologists, computer vision scientists and young researchers together on a common platform to initiate thought-provoking discussions and identify some important research questions that can form the basis of innovative solutions . 
 ### Aim 
@@ -66,6 +67,9 @@ The first session on the day 1 focuses on identifying research questions where i
    3. Hands-on knowledge of the clinical issues, the image processing toolkit and translational approaches for the participants
    4. A publication of the discussion on the key clinical and biological issues, challenges and novel opportunities using image analysis.
 
-{{< figure library="true" src="workshop_date1.png" title="" lightbox="false" >}}
-{{< figure library="true" src="workshop_date2.png" title="" lightbox="false" >}}
-### [Registration Here](https://docs.google.com/forms/d/1lqXRonNrPCbwOGHLSVEYWFIq7XHSU3mtjbbZ6jxlxjk/edit)
+{{< figure library="true" src="workshop_date1.jpg" width="600" title="" lightbox="false" >}}
+
+
+### [Register Here](https://docs.google.com/forms/d/1lqXRonNrPCbwOGHLSVEYWFIq7XHSU3mtjbbZ6jxlxjk/edit)
+
+### [Download Full Agenda](https://drive.google.com/file/d/1ymJeYIueU7k3QFuX4u_otxB1SSZD6QN5/view?usp=sharing)
