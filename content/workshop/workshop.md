@@ -67,7 +67,7 @@ The first session on the day 1 focuses on identifying research questions where i
    3. Hands-on knowledge of the clinical issues, the image processing toolkit and translational approaches for the participants
    4. A publication of the discussion on the key clinical and biological issues, challenges and novel opportunities using image analysis.
 
-{{< figure library="true" src="workshop_date1.jpg" width="600" title="" lightbox="false" >}}
+{{< figure library="true" src="workshop_date1.png" width="600" title="" lightbox="false" >}}
 
 
 ### [Register Here](https://docs.google.com/forms/d/1lqXRonNrPCbwOGHLSVEYWFIq7XHSU3mtjbbZ6jxlxjk/edit)
