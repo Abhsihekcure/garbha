@@ -11,5 +11,5 @@ superuser: true
 user_groups: ["Internal Quality Control Team"]
 ---
 
- *	Sugandha Arya
- *	Monika Bahl
+ *  <span style="color:blue"> **Sugandha Arya** </span> 
+ *	<span style="color:blue"> **Monika Bahl** </span> 
