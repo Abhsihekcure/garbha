@@ -11,9 +11,9 @@ name: 'Dr. Sumit Misra'
 superuser: false
 user_groups: ["Clinical Team"]
 ---
-<span style="color:red"> *Study Nurses* </span>
+ <span style="color:red"> *Study Nurses* </span>
 
-  *	<span style="color:blue"> **Manisha** </span> <span style="color:blue"> **(Senoir Study Nurse)** </span> 
+  *	<span style="color:blue"> **Manisha** </span> <span style="color:blue"> **(Senior Study Nurse)** </span> 
   *	<span style="color:blue"> **Aditi** </span> <span style="color:blue"> **(Study Nurse)** </span>
   *	<span style="color:blue"> **Amrita** </span> <span style="color:blue"> **(Study Nurse)** </span>
   *	<span style="color:blue"> **Pooja saini** </span> <span style="color:blue"> **(Study Nurse)** </span>
@@ -36,6 +36,5 @@ user_groups: ["Clinical Team"]
   *	<span style="color:blue"> **Deepika** </span> <span style="color:blue"> **(Study Nurse)** </span>
   *	<span style="color:blue"> **Nirmal** </span> <span style="color:blue"> **(Study Nurse)** </span>
   *	<span style="color:blue"> **Shikha** </span> <span style="color:blue"> **(Study Nurse)** </span>
-
 
 
