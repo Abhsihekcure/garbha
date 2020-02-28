@@ -72,4 +72,4 @@ The first session on the day 1 focuses on identifying research questions where i
 
 ### [Register Here](https://docs.google.com/forms/d/1lqXRonNrPCbwOGHLSVEYWFIq7XHSU3mtjbbZ6jxlxjk/edit)
 
-### [Download Full Agenda](https://drive.google.com/file/d/1ymJeYIueU7k3QFuX4u_otxB1SSZD6QN5/view?usp=sharing)
+### [Download Full Agenda](https://drive.google.com/file/d/1aDjoZmZ32hfVDrzGVRGbvEryxukS2dQ4/view?usp=sharing)
