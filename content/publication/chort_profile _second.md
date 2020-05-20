@@ -5,10 +5,10 @@ authors:
  - Andrew Lai
  - Dominic Guanzon
  - Shinjini Bhatnagar
- - Pallavi S.K
+ - kshetrapal PK
  - Samantha Sheller-Miller
  - The Garbhini Study team
-  - Carlos Salomon
+ - Carlos Salomon
 
 date: "2019-02-01"
 doi: "10.1210/en.2018-00836"
