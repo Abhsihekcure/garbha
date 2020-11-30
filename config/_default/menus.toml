@@ -12,6 +12,11 @@
   name = "People"
   url = "/people/"
   weight = 15
+  
+  [[main]]
+  name = "Role"
+  url = "/role/"
+  weight = 16
 
 [[main]]
   name = "Research"
