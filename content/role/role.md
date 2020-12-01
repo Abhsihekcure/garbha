@@ -49,12 +49,13 @@ subtitle = ""
 +++
 
 
-{{< figure library="true" src="grole1.JPG" title="" lightbox="false" >}}
-{{< figure library="true" src="grole2.JPG" title="" lightbox="false" >}}
-{{< figure library="true" src="grole3.JPG" title="" lightbox="false" >}}
-{{< figure library="true" src="grole4.JPG" title="" lightbox="false" >}}
-{{< figure library="true" src="grole5.JPG" title="" lightbox="false" >}}
-{{< figure library="true" src="grole6.JPG" title="" lightbox="true" >}}
-{{< figure library="true" src="grole7.JPG" title="" lightbox="true" >}}
+{{< figure library="true" src="role1.JPG" title="" lightbox="false" >}}
+{{< figure library="true" src="role2.JPG" title="" lightbox="false" >}}
+{{< figure library="true" src="role3.JPG" title="" lightbox="false" >}}
+{{< figure library="true" src="role4.JPG" title="" lightbox="false" >}}
+{{< figure library="true" src="role5.JPG" title="" lightbox="false" >}}
+{{< figure library="true" src="role6.JPG" title="" lightbox="true" >}}
+{{< figure library="true" src="role7.JPG" title="" lightbox="true" >}}
+{{< figure library="true" src="role8.JPG" title="" lightbox="true" >}}
 
 
