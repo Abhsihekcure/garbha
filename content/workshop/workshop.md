@@ -46,7 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="illustration.png" title="" lightbox="true" >}}
-# Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence
+# Development, evaluation and reporting strategies of AI algorithms in maternal and child health
 
 ### Background 
 Maternal and child health is a key indicator of the health of a society particularly in low-middle income countries. A major challenge is the lack of cutting edge applications for  prevention and early diagnosis of diseases that have public health implications. One way forward is to use the recent advances in technologies like artificial intelligence for addressing these issues. We organised a workshop on “Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence” where clinicians, physician-scientists, biologists, computer vision scientists and young researchers had come together on a common platform to initiate thought-provoking discussions and identify some important research questions. The first workshop focussed on identification of problem areas in maternal and child health where these technologies would facilitate research to find sustainable solutions. In this follow-up workshop we intend to go into more details on the development, validation and reporting strategies of AI algorithms. We have developed a successful interdisciplinary and interinstitutional collaborative program based on AI between THSTI and University of Oxford. Learning from this experience, an additional objective is to discuss the challenges in collection, annotation and management of multidimensional clinical data and such collaborations.
