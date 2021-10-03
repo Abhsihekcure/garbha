@@ -49,27 +49,30 @@ subtitle = ""
 # Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence
 
 ### Background 
-Maternal and child health is a key indicator of the health of a society particularly in low-middle income countries. A major challenge is the lack of cutting edge applications for  prevention and early diagnosis of diseases that have public health implications. One way forward is to use the recent advances in medical image analysis for addressing these issues. Machine learning, especially deep learning, is an innovative method to  identify, classify, and quantify patterns in medical images that can be used to develop  relevant tools for clinical and public health applications. Additionally, these tools can provide understanding of underlying biological mechanisms. Interdisciplinary groups working in synergy would further augment this initiative. This workshop on “Innovative solutions for maternal and child  health using medical image analysis and AI” will bring together  clinicians, physician-scientists, biologists, computer vision scientists and young researchers together on a common platform to initiate thought-provoking discussions and identify some important research questions that can form the basis of innovative solutions . 
+Maternal and child health is a key indicator of the health of a society particularly in low-middle income countries. A major challenge is the lack of cutting edge applications for  prevention and early diagnosis of diseases that have public health implications. One way forward is to use the recent advances in technologies like artificial intelligence for addressing these issues. We organised a workshop on “Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence” where clinicians, physician-scientists, biologists, computer vision scientists and young researchers had come together on a common platform to initiate thought-provoking discussions and identify some important research questions. The first workshop focussed on identification of problem areas in maternal and child health where these technologies would facilitate research to find sustainable solutions. In this follow-up workshop we intend to go into more details on the development, validation and reporting strategies of AI algorithms. We have developed a successful interdisciplinary and interinstitutional collaborative program based on AI between THSTI and University of Oxford. Learning from this experience, an additional objective is to discuss the challenges in collection, annotation and management of multidimensional clinical data and such collaborations.
+
 ### Aim 
-The main aim of the workshop is to discuss the scope of medical image analysis for augmenting research to find innovative solutions in Maternal and Child Health
+The main aim of the workshop is to discuss the development, evaluation and reporting strategies of AI algorithms in healthcare with special attention to maternal and child health. In addition, we will also discuss the challenges of establishing the interdisciplinary and interinstitutional collaborations that involve collection, annotation and management of multidimensional clinical data. An important focus will be on career development opportunities in this exciting interdisciplinary area.
+
 ### Objectives
-   1. Identify research questions emerging from clinical and public health need for low- middle income countries which can be addressed by image processing and AI. 
-   2. Provide deeper understanding of image processing tools that would facilitate research .  
-   3. Hands-on-training /attempt to address one of the research questions identified.
+  1. To discuss the opportunities and challenges in setting up interdisciplinary and interinstitutional collaborations for building innovative solutions using novel technologies like AI
+  2. To deliberate on study design strategies for development and evaluation of AI models
+  3. To understand future prospects of AI in healthcare (5 years from now)
+
 ### Program 
-This is envisioned as a two-day workshop and is divided into 4 major sessions comprised of keynote address, research question driven seminars, presentations and panel discussions. 
-<br />
-The first session on the day 1 focuses on identifying research questions where image-based analytics could be a solution for both clinical needs and biological questions (Diagnosic, Assistive, Predictive). The second session will highlight existing and potential novel approaches of evidence generation to translate technological solutions to the clinic; discuss limitations. Day 2 will focus on the methods to develop various image-based technologies that can be used to solve healthcare problems including advantages and limitations of each. A dedicated session on hands-on problem solving using a real-world image dataset to answer one of the questions identified during the workshop will be held.
+This is envisioned as an online workshop across 3 days. Each day will have a 4 hour session comprised of keynote lectures and panel discussions. Day 1 will focus on the progress made on the interdisciplinary inter institutional program on AI and image analysis recognised as the CALOPUS project. Discussions will be centred on establishing sustainable interdisciplinary collaborations learning from CALOPUS and Garbh-Ini projects. Data presentations will be made by the CALOPUS team and there will be a keynote address on the importance and utility of ultrasonography in antenatal care. 
+
+The focus on day 2 will be on how to plan a study which includes study design, sample size and to understand future prospects of AI in healthcare. On day 3 we focus more on how to translate the algorithms, which are developed and validated, into working prototypes and an inspiring keynote on the actual implementation of such a prototype in public health.
 
 ### Outcomes
-   1. Identify key research questions that can be addressed by image analysis and AI in the domain of maternal and child health.  
-   2. Develop interdisciplinary collaborations.
-   3. Hands-on knowledge of the clinical issues, the image processing toolkit and translational approaches for the participants
-   4. A publication of the discussion on the key clinical and biological issues, challenges and novel opportunities using image analysis.
+  1. Identify key research questions that can be addressed by image analysis and AI in the domain of maternal and child health.  
 
-{{< figure library="true" src="workshop_date1.png" width="600" title="" lightbox="false" >}}
+  2. Develop interdisciplinary collaborations with focus on image analysis and AI in the domain of maternal and child health.
+
+  3. Create a knowledge pool in the domain to facilitate career development for young investigators
+
 
 
 ### [Register Here](https://docs.google.com/forms/d/1lqXRonNrPCbwOGHLSVEYWFIq7XHSU3mtjbbZ6jxlxjk/edit)
 
-### [Download Full Agenda](https://drive.google.com/file/d/1aDjoZmZ32hfVDrzGVRGbvEryxukS2dQ4/view?usp=sharing)
+### Full agenda coming soon
