@@ -73,6 +73,6 @@ The focus on day 2 will be on how to plan a study which includes study design, s
 
 
 
-### [Register Here](https://docs.google.com/forms/d/1lqXRonNrPCbwOGHLSVEYWFIq7XHSU3mtjbbZ6jxlxjk/edit)
+### [Register Here](https://us02web.zoom.us/webinar/register/WN_x-_ZOP8ATkSz9bTdtFQe9w)
 
 ### [Full agenda] (https://drive.google.com/file/d/1BurUa0QN0PtpjGJfFN1N9f-t0PEP6R74/view?usp=sharing)
