@@ -79,10 +79,10 @@ The focus on day 2 will be on how to plan a study which includes study design, s
 
 ### Organising committee
 
-Dr. Bapu Koundinya Desiraju [email] (bapukoundinyadesiraju@thsti.res.in)
-Dr. Ramachandran Thiruvengadam [email] (ramachandran@thsti.res.in)
-Mr. Divyanshu Mishra [email] (divyanshu@thsti.res.in)
-Mr. Varun C [email] (c.varun@thsti.res.in)
-Ms. Shilpa Chopra [email] (shilpachopra@thsti.res.in)
+- Dr. Bapu Koundinya Desiraju (bapukoundinyadesiraju@thsti.res.in)
+- Dr. Ramachandran Thiruvengadam (ramachandran@thsti.res.in)
+- Mr. Divyanshu Mishra (divyanshu@thsti.res.in)
+- Mr. Varun C (c.varun@thsti.res.in)
+- Ms. Shilpa Chopra (shilpachopra@thsti.res.in)
 
 
