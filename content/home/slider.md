@@ -17,7 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "News"
-  content = "22-24th November, 2021 (Workshop), Development, evaluation and reporting strategies of AI algorithms in maternal and child health"
+  content = "11-12th June, 2022 (Workshop), The role of AI in transforming Healthcare"
   align = "left"
 
   # Overlay a color or image (optional).
