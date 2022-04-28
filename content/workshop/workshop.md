@@ -46,43 +46,27 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="illustration.png" title="" lightbox="true" >}}
-# Development, evaluation and reporting strategies of AI algorithms in maternal and child health
+# The role of AI in transforming Healthcare
 
 ### Background 
-Maternal and child health is a key indicator of the health of a society particularly in low-middle income countries. A major challenge is the lack of cutting edge applications for  prevention and early diagnosis of diseases that have public health implications. One way forward is to use the recent advances in technologies like artificial intelligence for addressing these issues. We organised a workshop on “Innovative solutions for maternal and child health using medical image analysis and Artificial Intelligence” where clinicians, physician-scientists, biologists, computer vision scientists and young researchers had come together on a common platform to initiate thought-provoking discussions and identify some important research questions. The first workshop focussed on identification of problem areas in maternal and child health where these technologies would facilitate research to find sustainable solutions. In this follow-up workshop we intend to go into more details on the development, validation and reporting strategies of AI algorithms. We have developed a successful interdisciplinary and interinstitutional collaborative program based on AI between THSTI and University of Oxford. Learning from this experience, an additional objective is to discuss the challenges in collection, annotation and management of multidimensional clinical data and such collaborations.
+Maternal and child health is a key indicator of the health of a society particularly in low-middle income countries. A major challenge is the lack of cutting edge applications for prevention and early diagnosis of diseases that have public health implications. One way forward is to use the recent advances in technologies like artificial intelligence for addressing these issues. We organized two workshops on this topic where clinicians, physician-scientists, biologists, computer vision scientists and young researchers had come together on a common platform to initiate thought-provoking discussions and identify some important research questions. The first workshop focussed on identification of problem areas in maternal and child health where these technologies would facilitate research to find sustainable solutions. In the second workshop we discussed more details on the development, validation and reporting strategies of AI algorithms. We have developed a successful interdisciplinary and interinstitutional collaborative program based on AI between THSTI and University of Oxford. Learning from this experience, an additional objective was to discuss the challenges in collection, annotation and management of multidimensional clinical data and such collaborations. 
 
-### Aim 
-The main aim of the workshop is to discuss the development, evaluation and reporting strategies of AI algorithms in healthcare with special attention to maternal and child health. In addition, we will also discuss the challenges of establishing the interdisciplinary and interinstitutional collaborations that involve collection, annotation and management of multidimensional clinical data. An important focus will be on career development opportunities in this exciting interdisciplinary area.
-
-### Objectives
-  1. To discuss the opportunities and challenges in setting up interdisciplinary and interinstitutional collaborations for building innovative solutions using novel technologies like AI
-  2. To deliberate on study design strategies for development and evaluation of AI models
-  3. To understand future prospects of AI in healthcare (5 years from now)
 
 ### Program 
-This is envisioned as an online workshop across 3 days. Each day will have a 4 hour session comprised of keynote lectures and panel discussions. Day 1 will focus on the progress made on the interdisciplinary inter institutional program on AI and image analysis recognised as the CALOPUS project. Discussions will be centred on establishing sustainable interdisciplinary collaborations learning from CALOPUS and Garbh-Ini projects. Data presentations will be made by the CALOPUS team and there will be a keynote address on the importance and utility of ultrasonography in antenatal care. 
-
-The focus on day 2 will be on how to plan a study which includes study design, sample size and to understand future prospects of AI in healthcare. On day 3 we focus more on how to translate the algorithms, which are developed and validated, into working prototypes and an inspiring keynote on the actual implementation of such a prototype in public health.
-
-### Outcomes
-  1. Identify key research questions that can be addressed by image analysis and AI in the domain of maternal and child health.  
-
-  2. Develop interdisciplinary collaborations with focus on image analysis and AI in the domain of maternal and child health.
-
-  3. Create a knowledge pool in the domain to facilitate career development for young investigators
+This is a third workshop in the series and in this followup workshop, we discuss more details on technical challenges and potential solutions as well as challenges in implementing the AI algorithms on a large scale in public health. Day 1 will focus on technological themes and the discussions will be focused on explainability, generalizability, data bias and data sharing (federated learning). There will be a keynote presentation, discussions and demonstrations of the key algorithms. Day 2 will focus on the implementation themes and will include talks on the successful implementations of such algorithms and learnings from such experiences. Later in the day we will also have discussions on issues related to democratization and trustworthiness of AI algorithms. Both days will feature abstract/ poster presentations by young investigators and students on the relevant topics.
 
 
 
-### [Register Here](https://us02web.zoom.us/webinar/register/WN_x-_ZOP8ATkSz9bTdtFQe9w)
+### [Register Here](https://forms.gle/JegXLpetttvDN8mv8)
 
-### [Full agenda] (https://drive.google.com/file/d/1AkMA3iLjYDJENo-TZMLuyp5ydtkwlhp4/view?usp=sharing)
+### [Full agenda will be announced soon] 
 
 ### Organising committee
 
 - Dr. Bapu Koundinya Desiraju (bapukoundinyadesiraju@thsti.res.in)
 - Dr. Ramachandran Thiruvengadam (ramachandran@thsti.res.in)
 - Mr. Divyanshu Mishra (divyanshu@thsti.res.in)
-- Mr. Varun C (c.varun@thsti.res.in)
 - Ms. Shilpa Chopra (shilpachopra@thsti.res.in)
+- Ms. Vidhya Krishnamoorthy
 
 
