@@ -61,14 +61,16 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 
 ### [Register Here](https://forms.gle/JegXLpetttvDN8mv8)
 
-### [Full agenda will be announced soon] 
+### [Full agenda] (https://drive.google.com/file/d/1EYyZbufTLZUG5H_s0_nkoT2Qrw7VQS2b/view?usp=sharing)
 
 ### Organising committee
 
 - Dr. Bapu Koundinya Desiraju (bapukoundinyadesiraju@thsti.res.in)
 - Dr. Ramachandran Thiruvengadam (ramachandran@thsti.res.in)
 - Mr. Divyanshu Mishra (divyanshu@thsti.res.in)
+- Dr. Bela Desai
 - Ms. Shilpa Chopra (shilpachopra@thsti.res.in)
 - Ms. Vidhya Krishnamoorthy
+
 
 
