@@ -49,7 +49,7 @@ subtitle = ""
 # The role of AI in transforming Healthcare
 **11-12 June 2022** 
 
-**Venue: Taj Fort Aguada, Goa | Hybrid**
+**Venue: Goa | Hybrid**
 
 
 ### Background 
