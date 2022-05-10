@@ -65,8 +65,7 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 
 ### [Register Here](https://forms.gle/JegXLpetttvDN8mv8)
 
-### [Full agenda](https://drive.google.com/file/d/1EYyZbufTLZUG5H_s0_nkoT2Qrw7VQS2b/view?usp=sharing)
-
+### [Full agenda](https://drive.google.com/file/d/1fz0IxDHw85hXEfR6yN8NtLICGrLBTVDl/view?usp=sharing)
 ### Organising committee
 
 - Dr. Bapu Koundinya Desiraju (bapukoundinyadesiraju@thsti.res.in)
