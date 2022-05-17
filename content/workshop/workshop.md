@@ -66,6 +66,15 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 ### [Register Here](https://forms.gle/JegXLpetttvDN8mv8)
 
 ### [Full agenda](https://drive.google.com/file/d/1fz0IxDHw85hXEfR6yN8NtLICGrLBTVDl/view?usp=sharing)
+
+### Organising Institutions
+
+**[Translational Health Science and Technology Institute](https://thsti.res.in/newthsti/)
+
+**[Institue of Biomedical Engineering, University of Oxford](https://www.ibme.ox.ac.uk/)
+
+**[Centre for Integrative Biology and Systems Medicine (IBSE), IITM](https://ibse.iitm.ac.in/)
+
 ### Organising committee
 
 - Dr. Bapu Koundinya Desiraju (bapukoundinyadesiraju@thsti.res.in)
