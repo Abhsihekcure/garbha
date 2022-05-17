@@ -69,11 +69,11 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 
 ### Organising Institutions
 
-**[Translational Health Science and Technology Institute](https://thsti.res.in/newthsti/)
+[Translational Health Science and Technology Institute](https://thsti.res.in/newthsti/)
 
-**[Institue of Biomedical Engineering, University of Oxford](https://www.ibme.ox.ac.uk/)
+[Institue of Biomedical Engineering, University of Oxford](https://www.ibme.ox.ac.uk/)
 
-**[Centre for Integrative Biology and Systems Medicine (IBSE), IITM](https://ibse.iitm.ac.in/)
+[Centre for Integrative Biology and Systems Medicine (IBSE), IITM](https://ibse.iitm.ac.in/)
 
 ### Organising committee
 
