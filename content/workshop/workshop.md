@@ -80,9 +80,7 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 - Dr. Bapu Koundinya Desiraju (bapukoundinyadesiraju@thsti.res.in)
 - Dr. Ramachandran Thiruvengadam (ramachandran@thsti.res.in)
 - Mr. Divyanshu Mishra (divyanshu@thsti.res.in)
-- Dr. Bela Desai
+- Dr. Bela Desai (bela.desai@thsti.res.in)
 - Ms. Shilpa Chopra (shilpachopra@thsti.res.in)
-- Ms. Vidhya Krishnamoorthy
-
 
 
