@@ -65,7 +65,7 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 
 ### [Register Here](https://forms.gle/JegXLpetttvDN8mv8)
 
-### [Full agenda](https://drive.google.com/file/d/1fz0IxDHw85hXEfR6yN8NtLICGrLBTVDl/view?usp=sharing)
+### [Full agenda](https://drive.google.com/file/d/1uyKuWy8CdmK-zcUglUW8n8D9VnD58MQr/view?usp=sharing)
 
 ### Organising Institutions
 
