@@ -46,7 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="illustration.png" title="" lightbox="true" >}}
-# The role of AI in transforming Healthcare
+# The role of AI in transforming healthcare
 **11-12 June 2022** 
 
 **Venue: Goa | Hybrid**
