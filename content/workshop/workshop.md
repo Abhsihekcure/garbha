@@ -67,6 +67,10 @@ All participants are encouraged to submit abstracts of their work. Unlike confer
 
 ### [Full agenda](https://drive.google.com/file/d/1uyKuWy8CdmK-zcUglUW8n8D9VnD58MQr/view?usp=sharing)
 
+We have designed an e-brochure which contains aims and objectives of the workshop, descriptions of each session, biographies of speakers and the selected abstracts which will be presented during the workshop. Essentially it contains all information to prepare for the workshop. Find the document in the link below
+
+### [E-brochure](https://drive.google.com/file/d/11Pag7QSSHTjq90bmVXvPnECEkzMfARY_/view?usp=sharing)
+
 ### Organising Institutions
 
 [Translational Health Science and Technology Institute](https://thsti.res.in/newthsti/)
